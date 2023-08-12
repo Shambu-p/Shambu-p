@@ -14,6 +14,4 @@ Express JS, React JS and .NET Core.
 
 
 
-I am Junior Software Engineer with a demonstrated history of working in the computer software industry. I work for Appdiv System Development. 
-I used PHP for about 4 years and developed many web applications with it. I also have programming skills using Java, PHP, JavaScript, Vue JS, 
-Express JS, React JS and .NET Core.
+I am Software Engineer with a demonstrated history of working in the computer software industry. I worked in different companies on different position before, Currently I work for Dengene Technology Solution as Junior Solution Engineer using Servicenow. I used PHP for about 4 years and developed many web applications with it. Inaddition to that I have experience on ReactJs, ExpressJs, .Net Core and Java for a year. Also have programming skills using JavaScript, Typescript and Vue JS.
