@@ -10,7 +10,7 @@ Express JS, React JS and .NET Core.
 
 - 👀 I’m interested in Software Development with Java, JS/TS based Frameworks and .NET
 - 🌱 I’m currently working on .NET Core and ExpressJs with Clean Architecture Design Pattern
-- 📫 If you want to reach me Email using abnetkebede075@gmail.com 
+- 📫 If you want to reach me use this email:- abnetkebede075@gmail.com 
 
 
 
